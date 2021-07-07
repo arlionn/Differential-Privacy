@@ -1,5 +1,5 @@
 # Differential-Privacy
-Replication Package for "A Practical Method to Reduce Privacy Loss when Disclosing Statistics Based on Small Samples"
+Replication Package for "A Practical Method to Reduce Privacy Loss when Disclosing Statistics Based on Small Samples", [-Link-](https://opportunityinsights.org/paper/differential-privacy/)
 
 Figures Replication
 
